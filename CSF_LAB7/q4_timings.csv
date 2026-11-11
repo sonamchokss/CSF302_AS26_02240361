@@ -1,0 +1,11 @@
+experiment,size,method,seconds
+selection,10000,quickselect,0.036939133307896554
+selection,10000,sorted,0.027246633311733603
+selection,100000,quickselect,0.17983226664364338
+selection,100000,sorted,0.09178806670630972
+selection,1000000,quickselect,1.5606029333236318
+selection,1000000,sorted,1.2722215999771531
+primality,20,Miller-Rabin random,0.00030613333607713383
+primality,5,trial division primes,1.0500416333088651
+primality,5,Miller-Rabin primes,0.0051553666514034075
+carmichael,1000,mr_round(561),0.017

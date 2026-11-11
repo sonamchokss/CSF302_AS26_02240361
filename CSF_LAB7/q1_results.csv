@@ -1,0 +1,9 @@
+experiment,value
+activity_start_counterexample,"[(7, 9), (0, 4), (6, 8), (8, 12), (5, 11), (1, 7)]"
+activity_start_finish_selection,"[(0, 4), (6, 8), (8, 12)]"
+activity_start_selection,"[(0, 4), (5, 11)]"
+activity_duration_counterexample,"[(9, 13), (9, 15), (8, 14), (8, 12), (4, 9)]"
+activity_duration_finish_selection,"[(4, 9), (9, 13)]"
+activity_duration_selection,"[(8, 12)]"
+worst_greedy01_ratio,0.21212121212121213
+worst_instance,"items=[(14, 28), (1, 7), (15, 43), (11, 33)], capacity=11, greedy=7, optimum=33"

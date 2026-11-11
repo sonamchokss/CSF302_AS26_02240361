@@ -1,0 +1,2 @@
+Greedy algorithms make a locally best choice and hope that the choices lead to a global optimum.
+Huffman coding uses frequent symbols more cheaply, while rare symbols receive longer codes.

@@ -1,0 +1,4 @@
+file,bytes,bits,average_bits_per_symbol,compression_ratio_table_excluded
+sample_english.txt,191,836,4.377,0.5471
+sample_source.py,138,579,4.196,0.5245
+sample_repeated.txt,39,99,2.538,0.3173
